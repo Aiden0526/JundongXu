@@ -5,7 +5,7 @@ My research interest lies in the Large Language Model. I am pursuing a Master of
 [![View My CV](https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Aiden0526/JundongXu/blob/main/Jundong%20Xu_NUS%20%26UCL.pdf)
 
 ### Education
-- MSc Computer Science | National University of Singapore
+- MSc Computer Science | National University of Singapore （NUS）
 - BSc Information Management | University College London (UCL)
 
 ### Publication
