@@ -1,5 +1,5 @@
 # JundongXu
-![head_photo](/head_photo.jpg)
+
 ### About Me
 My research interest lies in the Large Language Model. I am pursuing a Master of Computing at the National University of Singapore (**NUS**). Before that, I obtained a first-class undergraduate degree at the University College London (**UCL**).
 
