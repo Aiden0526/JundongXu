@@ -16,7 +16,7 @@ My research interest lies in the Large Language Model. I am pursuing a Master of
 - **Reviewer** for Neurocomputing, 2024
 
 ### Research Experience
-- 2023.10 - Now | Research Assistant | Center for Trusted Internet and Community, NUS, advised by Prof Mong-Li Lee and Wynne Hsu.
+- 2023.10 - Now | Research Assistant | Center for Trusted Internet and Community, NUS, advised by Dr Hao Fei, Prof Mong-Li Lee, and Prof Wynne Hsu.
 - 2023.07 - 2023.10 | Research Assistant | Zhangyue NLP Lab, Westlake University, advised by Yidong Wang and Prof Linyi Yang.
 
 ### Internship Experience
