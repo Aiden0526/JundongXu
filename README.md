@@ -1,7 +1,8 @@
 # JundongXu
 
 ### About Me
-My research interest lies in the Large Language Model. I am pursuing a Master of Computing at the National University of Singapore (**NUS**). Before that, I obtained a first-class undergraduate degree at the University College London (**UCL**). <p style="color:red;">I am currently looking for a PhD position starting from 2025 Fall.</p>
+My research interest lies in the Large Language Model. I am pursuing a Master of Computing at the National University of Singapore (**NUS**). Before that, I obtained a first-class undergraduate degree at the University College London (**UCL**). 
+***I am currently looking for a PhD position starting from 2025 Fall.***
 [![View My CV](https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Aiden0526/JundongXu/blob/main/Jundong%20Xu_NUS%20%26UCL.pdf)
 
 ### Education
