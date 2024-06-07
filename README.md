@@ -5,7 +5,7 @@ My research interest lies in the Large Language Model. I am pursuing a Master of
 ***I am currently looking for a PhD position starting from 2025 Fall.***
 [![View My CV](https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Aiden0526/JundongXu/blob/main/Jundong%20Xu_NUS%20%26UCL.pdf)
 
-***Email***: jundong.xu@u.nus.edu | jundong0526@gmail.com
+Email: ***jundong.xu@u.nus.edu*** | ***jundong0526@gmail.com***
 
 ### Education
 - MSc Computer Science | National University of Singapore (NUS)
