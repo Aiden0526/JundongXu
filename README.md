@@ -17,6 +17,7 @@ Email: ***jundong.xu@u.nus.edu*** | ***jundong0526@gmail.com***
 
 ### Professional Activity
 - **Reviewer** for Neurocomputing, 2024
+- **Reviewer** for NLPCC, 2024
 
 ### Research Experience
 - 2023.10 - Now | Research Assistant | Center for Trusted Internet and Community, NUS, advised by Dr Hao Fei, Prof Mong-Li Lee, and Prof Wynne Hsu.
