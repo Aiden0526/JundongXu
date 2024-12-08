@@ -12,12 +12,12 @@ Email: ***jundong.xu@u.nus.edu*** | ***jundong0526@gmail.com***
 - BSc Information Management | University College London (UCL)
 
 ### Publication
-- **Jundong X.**, Hao F., Liangming P., Qian L., Mong-Li L., Wynne H. 2024. Faithful Logical Reasoning vis Symbolic Chain-of-Thought. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), Main Conference (Accepted).
+- **Jundong X.**, Hao F., Liangming P., Qian L., Mong-Li L., Wynne H. 2024. Faithful Logical Reasoning vis Symbolic Chain-of-Thought. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**), Main Conference (Accepted).
   [SymCoT](https://arxiv.org/pdf/2405.18357.pdf)
+- Hao F., Meng L., **Jundong X.**, Shengqiong W., Wei J., Meng-Li L., Wynne H. 2024. Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM. **ACM MM Workshop 2024 Oral (Accepted)**.
 
 ### Professional Activity
-- **Reviewer** for Neurocomputing, 2024
-- **Reviewer** for NLPCC, 2024
+- **Reviewer** for ICLR, ACM MM, Neurocomputing, NLPCC.
 
 ### Research Experience
 - 2023.10 - Now | Research Assistant | Center for Trusted Internet and Community, NUS, advised by Dr Hao Fei, Prof Mong-Li Lee, and Prof Wynne Hsu.
